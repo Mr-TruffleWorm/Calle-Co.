@@ -1,7 +1,6 @@
-<link rel="stylesheet" href="{{ asset('css/header.css') }}">
 <body>
     <nav class="menu">
-        <h1>Calle Co.</h1>
+        <h1>CALLE Co.</h1>
         
         <button class="mobile-menu-btn">
             <span></span>
@@ -10,7 +9,7 @@
         </button>
 
         <div class="nav-links">
-            <a href="#">Home</a>
+            <a href="{{ url('/') }}">Home</a>
             
             <div class="dropdown">
                 <a href="#" class="dropdown-toggle">About Us</a>
@@ -28,9 +27,8 @@
                     <a href="#">Option B</a>
                 </div>
             </div>
-
+            <a href="{{ url('our_branches') }}">Branches</a>
             <a href="#">Blogs</a>
             <a href="#">Gallery</a>
         </div>
     </nav>
-    <script src="{{ asset('js/header.js') }}"></script>

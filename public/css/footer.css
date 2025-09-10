@@ -13,8 +13,8 @@
 
 
         footer {
-            background: #dfdada;
-            color: #333;
+            background: #122b1c;
+            color: #fdfcf9;
             padding: 50px 5% 30px;
         }
 
@@ -30,19 +30,19 @@
         .footer-section h2 {
             font-size: 1.5rem;
             margin-bottom: 25px;
-            color: #333;
+            color: #fdfcf9;
             font-weight: 600;
         }
 
         .footer-section h3 {
             font-size: 1.2rem;
             margin-bottom: 20px;
-            color: #333;
+            color: #fdfcf9;
             font-weight: 500;
         }
 
         .footer-section p {
-            color: #333;
+            color: #fdfcf9;
             line-height: 1.6;
             margin-bottom: 20px;
         }
@@ -54,7 +54,7 @@
         }
 
         .link1 a, .link2 a, .link3 a {
-            color: #333;
+            color: #fdfcf9;
             text-decoration: none;
             padding: 8px 0;
             transition: all 0.3s ease;
@@ -68,10 +68,10 @@
         }
 
         .footer-bottom {
-            border-top: 1px solid #333;
+            border-top: 1px solid #fdfcf9;
             padding-top: 25px;
             text-align: center;
-            color: #888;
+            color: #fdfcf9;
             font-size: 0.9rem;
         }
 

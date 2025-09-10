@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="{{ asset('css/footer.css') }}">
-
         <div class="footer-content">
             <div class="footer-section">
                 <h2>Calle Co.</h2>
