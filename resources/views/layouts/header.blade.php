@@ -10,24 +10,10 @@
 
         <div class="nav-links">
             <a href="{{ url('/') }}">Home</a>
-            
-            <div class="dropdown">
-                <a href="#" class="dropdown-toggle">About Us</a>
-                <div class="dropdown-content">
-                    <a href="#">Option 1</a>
-                    <a href="#">Option 2</a>
-                    <a href="#">Option 3</a>
-                </div>
-            </div>
-
-            <div class="dropdown">
-                <a href="#" class="dropdown-toggle">Franchises</a>
-                <div class="dropdown-content">
-                    <a href="#">Option A</a>
-                    <a href="#">Option B</a>
-                </div>
-            </div>
-            <a href="{{ url('our_branches') }}">Branches</a>
+            <a href="{{ url('franchising-page') }}">Franchising</a>
+            <a href="{{ url('about-us') }}">About Us</a>
+            <a href="{{ url('our-products') }}">Our Products</a>
+            <a href="{{ url('our-branches') }}">Branches</a>
             <a href="#">Blogs</a>
             <a href="#">Gallery</a>
         </div>
