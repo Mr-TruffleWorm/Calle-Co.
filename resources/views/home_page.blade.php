@@ -132,7 +132,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="{{ url('franchising') }}">
+                    <a href="{{ url('franchising-page') }}">
                         <button class="sm:w-fit w-full group px-8 py-4 bg-gradient-to-r from-calle-green to-black hover:from-calle-green-dark hover:to-gray-800 rounded-lg shadow-lg transition-all duration-700 ease-in-out justify-center items-center flex">
                             <span class="px-2 text-white text-lg font-bold leading-6 group-hover:-translate-x-0.5 transition-all duration-700 ease-in-out">
                                 Read More
